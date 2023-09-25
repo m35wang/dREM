@@ -26,4 +26,5 @@ Our elegant UI that looks nice and actually works!
 All assets drawn by team members 🙂
 
 **What we learned**
+
 It was our first time using any API, so we learned a lot by using and fine-tuning OpenAI's GPT 3.5 API to help generate unique, insightful responses. We also learned so many new unique UI animations, transitions, and design elements we hadn't used before while designing the frontend.
